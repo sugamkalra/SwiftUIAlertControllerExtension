@@ -1,9 +1,9 @@
 //
 //  UIAlertController+Demo.swift
-//  CBISales
+//  SwiftyAlertControllerExtension
 //
 //  Created by Sugam Kalra on 25/07/16.
-//  Copyright © 2016 Constellation Brands, Inc. All rights reserved.
+//  Copyright © 2016 Sugam Kalra. All rights reserved.
 //
 
 import Foundation
