@@ -47,7 +47,6 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="I7a-II-WdG" secondAttribute="bottom" constant="259" id="3i3-68-d1o"/>
                             <constraint firstItem="U6B-0f-khl" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Y6H-g0-UMF"/>
                             <constraint firstItem="U6B-0f-khl" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="240" id="kG1-HP-cum"/>
                             <constraint firstItem="I7a-II-WdG" firstAttribute="top" secondItem="U6B-0f-khl" secondAttribute="bottom" constant="21" id="l3j-55-i9U"/>
